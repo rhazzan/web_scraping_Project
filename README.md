@@ -53,28 +53,6 @@ This project helped me improve my skills in:
 
 ---
 
-## Installation
-
-Clone the repository:
-
-\```bash
-git clone https://github.com/your-username/your-repository-name.git
-\```
-
-Install dependencies:
-
-\```bash
-pip install -r requirements.txt
-\```
-
-Run the scraper:
-
-\```bash
-python scraper.py
-\```
-
----
-
 ## Output
 The final output is an Excel spreadsheet containing:
 - Book titles
