@@ -69,4 +69,3 @@ This project was created for educational purposes and to practice web scraping a
 
 ## Author
 Rabiu Hassan
-````
